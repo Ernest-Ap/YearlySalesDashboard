@@ -19,7 +19,7 @@ The dashboard is dynamic by selecting any of the region up top you can directly 
 <img src="dh_img/allCharts.gif" width="700">
 <br>
 
-The Profit vs Sales Trend chart is a marge of the line and area charts. Order details numbers in red is minus profit, this is formatted to only two colours and the red is in the direction of negative for no profits. The red dot between the order id and customer names, this is an alert of customers that have lost profits year of 2014.
+The Profit vs Sales Trend chart is a marge of the line(profits) and area(sales) charts. Order details numbers in red is minus profit, this is formatted to only two colours and the red is in the direction of negative for no profits. The red dot between the order id and customer names, this is an alert of customers that have lost profits year of 2014.
 <br>
 
 <img src="dh_img/2reg15.gif" width="600">
