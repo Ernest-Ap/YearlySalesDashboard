@@ -15,3 +15,7 @@ The dashboard three sections to the left total sales, total profit and total ord
 <img src="dh_img/sDb.gif" width="600">
 
 The dashboard is dynamic by selecting any of the region up top you can directly drill into that particular region. If I select south region all my visual well transform to that region. You can only see the states for that region. Also, if you go to order details it displays that region’s information. If I drill further my states to Georgia are my visuals will match to that chosen state these are the ways my dashboard is interactive and dynamic. If I go to the order details it will show that selected region and state. 
+
+<img src="dh_img/allCharts.gif" width="700">
+<br>
+The Profit vs Sales Trend chart is a marge of the line and area charts. Order details numbers in red is minus profit, this is formatted to only two colours and the red is in the direction of negative for no profits. The red dot between the order id and customer names, this is an alert of customers that have lost profits year of 2014. 
