@@ -38,3 +38,5 @@ A user can aslo select three regions at a time and see the details and then sele
 <br>
 
 To select east and west regions only or any two regions click ctrl + shift hold these buttons on your keyboard and select each region. The order details shows these two regions or any regions you select. 
+
+[Live Link](https://public.tableau.com/views/YearlySalesDashboard_16656310983210/SalesDashboard_Page?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
