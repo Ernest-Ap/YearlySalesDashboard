@@ -33,3 +33,8 @@ A user can select two regions at a time and see the details and then select one 
 
 A user can aslo select three regions at a time and see the details and then select one state from any of those regions year chosen 2016.
 <br>
+
+<img src="dh_img/ewReg17.gif" width="600">
+<br>
+
+To select east and west regions only or any two regions click ctrl + shift hold these buttons on your keyboard and select each region. The order details shows these two regions or any regions you select. 
