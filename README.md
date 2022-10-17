@@ -10,7 +10,9 @@
 <li>Tableau was used for this dashboard. 
 <li>Charts used: 2x bar charts, area/line chart, map. 
 
-The dashboard three sections to the left total sales, total profit and total orders. 
+The dashboard three sections to the left total sales, total profit and total orders.
+
+## Gif images below to show how the dashboard works and a live link at the bottom. 
 
 <img src="dh_img/sDb.gif" width="600">
 
