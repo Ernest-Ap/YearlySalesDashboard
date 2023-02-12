@@ -2,43 +2,64 @@
 ## US Superstore   
 ### Tableau dynamic dashboard 
 
-<img src="dh_img/yrSalesDb.png" width="600">
+<img src="dh_img/1yrsalesDb.png" width="800"> <img src="dh_img/12oddetails.png" width="800"> 
 
-<img src="dh_img/odDetails.png" width="600">
+### US Superstore data of US 2014-2017 sales and profits, using Tableau for the visualization.
 
-<li>The Excel dataset used is called Sample Superstore. 
-<li>Tableau was used for this dashboard. 
-<li>Charts used: 2x bar charts, area/line chart, map. 
+### In this report the focus will on the US Superstore 2017 data of US sales and profits only from their stores in the state of Florida. 
 
-The dashboard three sections to the left total sales, total profit and total orders.
+### I will analyze: 
 
-## Gif images below to show how the dashboard works and a live link at the bottom. 
+<li>Sales by Top 5 Sub-Categories in Florida state.  
+<li>Profit Percent by States. 
+<li>Profit by Category.
+<li>Profit vs Sales Trend. 
 
-<img src="dh_img/sDb.gif" width="600">
+### Software Used: 
+Tableau 
 
-The dashboard is dynamic by selecting any of the region up top you can directly drill into that particular region. If I select south region all my visual well transform to that region. You can only see the states for that region. Also, if you go to order details it displays that region’s information. If I drill further my states to Georgia are my visuals will match to that chosen state these are the ways my dashboard is interactive and dynamic. If I go to the order details it will show that selected region and state. 
+Charts used: Bar Chart x2, Map Chart, Combo Chart (Area/Line) 
+and Card Chart x3. 
 
-<img src="dh_img/allCharts.gif" width="700">
+<img src="dh_img/3yrSalesSDb.png" width="790">
+
+South Region Dashboard Totals <br>
+  
 <br>
-
-The Profit vs Sales Trend chart is a marge of the line(profits) and area(sales) charts. Also you can see details of the profit by category and sales by top 5 sub-category on the bar charts. Order details numbers in red is minus profit, this is formatted to only two colours and the red is in the direction of negative for no profits. The red dot between the order id and customer names, this is an alert of customers that have lost profits year of 2014.
+<img src="dh_img/4Salet5.png" width="790"> 
 <br>
-
-<img src="dh_img/2reg15.gif" width="600">
 <br>
-
-A user can select two regions at a time and see the details and then select one state from either region year chosen 2015.
+<img src="dh_img/5prope.png" width="790"> 
 <br>
-
-<img src="dh_img/3reg16.gif" width="600">
 <br>
-
-A user can aslo select three regions at a time and see the details and then select one state from any of those regions year chosen 2016.
+<img src="dh_img/6pcate.png" width="790"> 
 <br>
-
-<img src="dh_img/ewReg17.gif" width="600">
 <br>
+<img src="dh_img/7prvst.png" width="790"> 
+<br>
+<br>
+<img src="dh_img/8flord.png" width="790"> 
+ 
 
-To select east and west regions only or any two regions click ctrl + shift hold these buttons on your keyboard and select each region. The order details shows these two regions or any regions you select. 
+## Summary 
+
+### In this report I analysed: 
+
+<li>Sales by Top 5 Sub-Categories in Florida state.  
+<li>Profit Percent by States. 
+<li>Profit by Category.
+<li>Profit vs Sales Trend. 
+
+### Total Sales $26,455, Total Profit $244 and Total Orders 126. The Sales by Top 5 Sub-Categories in Florida their top selling product is phones $8,279. Florida has a small of profit of 2.8% the lowest profit in the south year of 2017. The Furniture category in Florida was the biggest loss with -$1,339 profit. Profit vs Sales Trend in Florida, November had the biggest sales of $5,237 and profits of $578. 
+### Order details, customer with the Order ID: CA-2017-102204 during 2017 had the highest negative profit of $458.10 and 2nd lowest profit of $0.40 from one of their orders out of their 933 sales regarding that order. 
+### Florida has to work on improving their furniture sales because this is where the most loss is from. My suggestions is to make more unique furniture to suit many types of customers. Also design new styles of furniture that takes inspiration from the sunny weather of the this state because Florida is one of the most unique states in the US.
+
+
+
+
+
+
+
+
 
 [Live Link](https://public.tableau.com/views/YearlySalesDashboard_16656310983210/SalesDashboard_Page?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
