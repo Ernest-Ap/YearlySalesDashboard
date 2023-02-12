@@ -40,7 +40,8 @@ South Region Dashboard Totals <br>
 <br>
 <img src="dh_img/8flord.png" width="790"> 
 
-## Gif of how the Dashboard works and at the bottom is a live link to the dashboard
+## Gif of how the dashboard works and at the bottom is a live link to the dashboard
+  
 <img src="dh_img/yearlySales.gif" width="790"> 
 
 ## Summary 
